@@ -1,2 +1,4 @@
 # WebDevelopmentPractice
-This repository is for my personal learning with Colt Steele's ["The WebDeveloper Bootcamp" course ](https://www.udemy.com/the-web-developer-bootcamp/).
+This repository is to add my practic problems as I learn Full stack web development.
+
+1. Colt Steele's ["The WebDeveloper Bootcamp" course ](https://www.udemy.com/the-web-developer-bootcamp/).
