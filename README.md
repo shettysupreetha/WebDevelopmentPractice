@@ -1,2 +1,2 @@
 # WebDevelopmentPractice
-This repository is to add sample codes that I code in my learning path
+This repository is for my personal learning with Colt Steele's "The WebDeveloper Bootcamp" course[Udemy](https://www.udemy.com/the-web-developer-bootcamp/).
