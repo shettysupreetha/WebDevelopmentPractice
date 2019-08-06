@@ -1,0 +1,43 @@
+/*star selector*/
+* {
+	border: 1px solid lightgrey;
+}
+
+/*Descendent selector*/
+li a{
+	background-color: pink;
+}
+
+/*Adjacent selector*/ /*For ex. Select ul's after h4*/
+h4 + ul
+{
+	border: 5px solid red;
+}
+
+/*Attribute selector*/
+a[href = "http://www.google.com"]{
+	background-color: blue;
+}
+
+/*input[type = "checkbox"]
+{
+
+}*/
+
+/*nth of type*/
+ul:nth-of-type(2)
+{
+background: green;
+}
+
+/*below code selects every 3rd li*/
+/*li:nth-of-type(3)
+{
+background: green;
+}*/
+
+/*li:nth-of-type(even)
+{
+background: green;
+}*/
+
